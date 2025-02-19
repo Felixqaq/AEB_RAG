@@ -11,3 +11,5 @@ Embedding Model: sentence-transformers/all-MiniLM-L6-v2(HuggingFaceEmbeddings)
 
 ### PDF 
 [SElab_Industry_Academia_Collaboration](https://smith.langchain.com/public/4313b067-7883-4c73-b8f8-281d7ad9ba74/r)
+
+[金嗓杯](https://www.youtube.com/watch?v=XEXqTm1RYzk)
